@@ -39,12 +39,13 @@ button {
 	border: none;
 	color: #fff;
 	display: inline-block;
-	padding: 15px 28px;
+	padding: 17px 33px;
 	font-size: 18px;
 	text-transform: uppercase;
 	font-family: poppins;
 	letter-spacing: 2px;
 	font-weight: bold;
+	border-radius: 5px;
 }
 input[type="radio"] {
 	width: 22px;
